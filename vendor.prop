@@ -199,6 +199,7 @@ ro.surface_flinger.vsync_sf_event_phase_offset_ns=6000000
 vendor.video.disable.ubwc=1
 
 # USB
+ro.usb.uvc.disable_video_encode_flag=true
 ro.usb.uvc.enabled=true
 sys.usb.mtp.batchcancel=1
 vendor.usb.diag.func.name=diag
