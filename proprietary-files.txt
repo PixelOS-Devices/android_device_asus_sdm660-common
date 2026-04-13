@@ -346,6 +346,15 @@ vendor/lib64/libllvm-glnext.so|993192308ee2b90607dbd9541ede2c93e66a0ecb
 vendor/lib64/libllvm-qcom.so|e773582b89436b4b2fd7e63983a5b7ca24748cfa
 vendor/lib64/librs_adreno.so|766453d2e3a4ab4a01908b78240abaa4f1b73d21
 
+# Graphics (Firmware)
+vendor/firmware/a512_zap.b00
+vendor/firmware/a512_zap.b01
+vendor/firmware/a512_zap.b02
+vendor/firmware/a512_zap.elf
+vendor/firmware/a512_zap.mdt
+vendor/firmware/a530_pfp.fw
+vendor/firmware/a530_pm4.fw
+
 # Graphics (HDR) - from Cat S62Pro sdm660_64-user 11 RKQ1.210406.002 1.015.00
 vendor/lib/libhdr_tm.so|a2292af314f9fa86b9ec2bb11ad72bf85e959842
 vendor/lib64/libhdr_tm.so|a1b9bbad12217e6b79951774801aa54be6460fd6
